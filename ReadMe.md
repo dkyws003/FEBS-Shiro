@@ -171,3 +171,4 @@ FEBS-Cloud | 基于Spring Cloud的微服务权限系统 | [https://github.com/wu
 
 ![treatme](screenshot/treatme.jpg)
 
+https://shiro.mrbird.cc/log.html
